@@ -1,23 +1,21 @@
 # basic
-title: 追客
-subtitle: You are the JavaScript in my HTML
 favicon: favicon.ico
 
 # avatar: images/avatar.png
 # banner_small: images/banner-small.png
 # banner_large: images/banner-large.png
-avatar: http://7xrcp8.com1.z0.glb.clouddn.com/avatar.png
+avatar: https://en.gravatar.com/userimage/4399767/6eae4865bc149372c2fa46148fc84a4a.jpg?size=200
 banner_small: http://7xrcp8.com1.z0.glb.clouddn.com/banner-small.png
 banner_large: http://7xrcp8.com1.z0.glb.clouddn.com/banner-large.png
 
 # disqus
-disqus_shortname: drakeleung
+disqus_shortname: mikedeboernl
 
 # social
 social:
-  github: https://github.com/DrakeLeung
-  twitter: https://twitter.com/DrakeLeung
-  weibo: http://weibo.com/cha12chalyc
+  github: https://github.com/mikedeboer
+  twitter: https://twitter.com/mikedeboer
+  linkedin: https://nl.linkedin.com/in/mikedeboer
 
 # nav #
 nav:
