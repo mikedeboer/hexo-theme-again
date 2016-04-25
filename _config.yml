@@ -5,8 +5,8 @@ favicon: favicon.ico
 # banner_small: images/banner-small.png
 # banner_large: images/banner-large.png
 avatar: https://en.gravatar.com/userimage/4399767/6eae4865bc149372c2fa46148fc84a4a.jpg?size=200
-banner_small: http://7xrcp8.com1.z0.glb.clouddn.com/banner-small.png
-banner_large: http://7xrcp8.com1.z0.glb.clouddn.com/banner-large.png
+banner_small: images/banner-small.png
+banner_large: images/banner-large.png
 
 # disqus
 disqus_shortname: mikedeboernl
